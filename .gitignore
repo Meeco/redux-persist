@@ -1,5 +1,5 @@
 node_modules
-lib/
+# lib/ # Need the lib directory to import module from git
 dist/
 es/
 .DS_Store
